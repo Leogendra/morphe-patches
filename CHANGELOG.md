@@ -1,3 +1,12 @@
+## [2.1.0](https://github.com/Leogendra/morphe-patches/compare/v2.0.0...v2.1.0) (2026-11-05)
+
+### ✨ New Features
+
+* **YouTube Music - SoundProof:** add player button with artist vote sheet ([7282d2f](https://github.com/Leogendra/morphe-patches/commit/7282d2f143aaba1b7ae2385299208270b800ef23))
+* **YouTube Music - SoundProof:** add skip toggle to the player sheet ([ee56664](https://github.com/Leogendra/morphe-patches/commit/ee56664faf155b54f9d0b32dc21cbd18e062018f))
+* **YouTube Music - SoundProof:** vote from the player sheet with live server votes ([dedf61d](https://github.com/Leogendra/morphe-patches/commit/dedf61d82b891a357f145a12cd85477f19e7a5d1))
+* **Youtube Music:** add SoundProof patch ([0630c47](https://github.com/Leogendra/morphe-patches/commit/0630c47738e27a96ee9556826828bd92f9b02eb6))
+
 ## [2.0.0](https://github.com/MorpheApp/morphe-patches/compare/v1.48.0...v2.0.0) (2026-10-30)
 
 ### ⚠ BREAKING CHANGES
